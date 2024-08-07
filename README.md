@@ -14,7 +14,7 @@ This Python script provides a basic interface to access Indian Railways informat
    pip install requests
 
 
-##How would you like to proceed?
+## How would you like to proceed?
 1. Enter 1 to check live train status (Currently unavailable)
 2. Enter 2 to check PNR (Currently unavailable)
 3. Enter 3 to check train schedule
